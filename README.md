@@ -6,7 +6,7 @@
  4. Notification-Service
 
 **#Features**
--Rest Api`<br>`
+-Rest Api <br>
 -Automated testing
 -Integeration Custom testing
 -Synchronous Communication
