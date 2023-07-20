@@ -5,8 +5,8 @@
  3. Inventory-Service
  4. Notification-Service
 
-#Features
--Rest Api
+**#Features**
+-Rest Api`<br>`
 -Automated testing
 -Integeration Custom testing
 -Synchronous Communication
