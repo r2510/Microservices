@@ -7,12 +7,12 @@
 
 **#Features**
 -Rest Api <br>
--Automated testing
--Integeration Custom testing
--Synchronous Communication
--Discovery Server
--Api Gateway(Spring cloud gateway)
--Keycloak Security
--Circuit Breaker(Resilance 4j)
--Tracing(Zipkin)
--Asynchronous communication with kafka
+-Automated testing <br>
+-Integeration Custom testing <br>
+-Synchronous Communication <br>
+-Discovery Server <br>
+-Api Gateway(Spring cloud gateway) <br>
+-Keycloak Security <br>
+-Circuit Breaker(Resilance 4j) <br>
+-Tracing(Zipkin) <br>
+-Asynchronous communication with kafka <br>
