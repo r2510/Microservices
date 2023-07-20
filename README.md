@@ -16,4 +16,3 @@
 -Circuit Breaker(Resilance 4j)
 -Tracing(Zipkin)
 -Asynchronous communication with kafka
--
